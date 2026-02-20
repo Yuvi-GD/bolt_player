@@ -1,0 +1,413 @@
+[ +188 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[        ] executing: [C:\flutter/] git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[  +36 ms] Exit code 0 from: git -c log.showSignature=false log HEAD -n 1 --pretty=format:%ad --date=iso
+[        ] 2026-02-12 17:12:32 -0800
+[   +7 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[  +21 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[   +9 ms] Skipping pub get: version match.
+[  +45 ms] Found plugin window_manager at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\window_manager-0.5.1\
+[   +3 ms] Found plugin screen_retriever at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\screen_retriever-0.2.0\
+[   +1 ms] Found plugin screen_retriever_windows at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\screen_retriever_windows-0.2.0\
+[   +3 ms] Found plugin screen_retriever_macos at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\screen_retriever_macos-0.2.0\
+[   +1 ms] Found plugin screen_retriever_linux at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\screen_retriever_linux-0.2.0\
+[   +2 ms] Found plugin media_kit_video at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\media_kit_video-2.0.1\
+[   +2 ms] Found plugin wakelock_plus at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\wakelock_plus-1.4.0\
+[  +11 ms] Found plugin package_info_plus at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-9.0.0\
+[  +20 ms] Found plugin media_kit_libs_windows_video at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\media_kit_libs_windows_video-1.0.11\
+[   +1 ms] Found plugin media_kit_libs_macos_video at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\media_kit_libs_macos_video-1.1.4\
+[        ] Found plugin media_kit_libs_linux at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\media_kit_libs_linux-1.2.1\
+[        ] Found plugin media_kit_libs_ios_video at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\media_kit_libs_ios_video-1.1.4\
+[   +1 ms] Found plugin media_kit_libs_android_video at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\media_kit_libs_android_video-1.3.8\
+[  +21 ms] Found plugin file_picker at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-10.3.10\
+[   +1 ms] Found plugin flutter_plugin_android_lifecycle at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.33\
+[  +28 ms] Found plugin window_manager at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\window_manager-0.5.1\
+[        ] Found plugin screen_retriever at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\screen_retriever-0.2.0\
+[        ] Found plugin screen_retriever_windows at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\screen_retriever_windows-0.2.0\
+[   +2 ms] Found plugin screen_retriever_macos at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\screen_retriever_macos-0.2.0\
+[        ] Found plugin screen_retriever_linux at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\screen_retriever_linux-0.2.0\
+[        ] Found plugin media_kit_video at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\media_kit_video-2.0.1\
+[   +1 ms] Found plugin wakelock_plus at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\wakelock_plus-1.4.0\
+[   +2 ms] Found plugin package_info_plus at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-9.0.0\
+[  +10 ms] Found plugin media_kit_libs_windows_video at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\media_kit_libs_windows_video-1.0.11\
+[        ] Found plugin media_kit_libs_macos_video at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\media_kit_libs_macos_video-1.1.4\
+[        ] Found plugin media_kit_libs_linux at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\media_kit_libs_linux-1.2.1\
+[        ] Found plugin media_kit_libs_ios_video at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\media_kit_libs_ios_video-1.1.4\
+[        ] Found plugin media_kit_libs_android_video at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\media_kit_libs_android_video-1.3.8\
+[  +19 ms] Found plugin file_picker at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-10.3.10\
+[        ] Found plugin flutter_plugin_android_lifecycle at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.33\
+[   +2 ms] Generating C:\Users\Yuvi\Documents\VS Code\bolt_player\android\app\src\main\java\io\flutter\plugins\GeneratedPluginRegistrant.java
+[   +5 ms] Skipping generating GeneratedPluginRegistrant.java because it is up-to-date.
+[   +2 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[        ] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +1 ms] Skipping generating generated_plugin_registrant.h because it is up-to-date.
+[        ] Skipping generating generated_plugin_registrant.cc because it is up-to-date.
+[        ] Skipping generating generated_plugins.cmake because it is up-to-date.
+[   +1 ms] Skipping generating GeneratedPluginRegistrant.h because it is up-to-date.
+[   +1 ms] Skipping generating GeneratedPluginRegistrant.m because it is up-to-date.
+[        ] Skipping generating GeneratedPluginRegistrant.swift because it is up-to-date.
+[  +17 ms] executing: C:\Program Files (x86)\Microsoft Visual Studio\Installer\vswhere.exe -format json -products * -utf8 -latest -version 16 -requires Microsoft.VisualStudio.Workload.NativeDesktop Microsoft.VisualStudio.Component.VC.Tools.x86.x64 Microsoft.VisualStudio.Component.VC.CMake.Project
+[  +89 ms] Exit code 0 from: C:\Program Files (x86)\Microsoft Visual Studio\Installer\vswhere.exe -format json -products * -utf8 -latest -version 16 -requires Microsoft.VisualStudio.Workload.NativeDesktop Microsoft.VisualStudio.Component.VC.Tools.x86.x64 Microsoft.VisualStudio.Component.VC.CMake.Project
+[        ] [
+             {
+               "instanceId": "4395428a",
+               "installDate": "2024-12-23T05:51:12Z",
+               "installationName": "VisualStudio/17.14.14+36429.23",
+               "installationPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community",
+               "installationVersion": "17.14.36429.23",
+               "productId": "Microsoft.VisualStudio.Product.Community",
+               "productPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\devenv.exe",
+               "state": 4294967295,
+               "isComplete": true,
+               "isLaunchable": true,
+               "isPrerelease": false,
+               "isRebootRequired": false,
+               "displayName": "Visual Studio Community 2022",
+               "description": "Powerful IDE, free for students, open-source contributors, and individuals",
+               "channelId": "VisualStudio.17.Release",
+               "channelUri": "https://aka.ms/vs/17/release/channel",
+               "enginePath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\resources\\app\\ServiceHub\\Services\\Microsoft.VisualStudio.Setup.Service",
+               "installedChannelId": "VisualStudio.17.Release",
+               "installedChannelUri": "https://aka.ms/vs/17/release/channel",
+               "releaseNotes": "https://docs.microsoft.com/en-us/visualstudio/releases/2022/release-notes-v17.14#17.14.14",
+               "resolvedInstallationPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community",
+               "thirdPartyNotices": "https://go.microsoft.com/fwlink/?LinkId=661288",
+               "updateDate": "2025-09-12T05:23:44.9435826Z",
+               "catalog": {
+                 "buildBranch": "d17.14",
+                 "buildVersion": "17.14.36429.23",
+                 "id": "VisualStudio/17.14.14+36429.23",
+                 "localBuild": "build-lab",
+                 "manifestName": "VisualStudio",
+                 "manifestType": "installer",
+                 "productDisplayVersion": "17.14.14",
+                 "productLine": "Dev17",
+                 "productLineVersion": "2022",
+                 "productMilestone": "RTW",
+                 "productMilestoneIsPreRelease": "False",
+                 "productName": "Visual Studio",
+                 "productPatchVersion": "14",
+                 "productPreReleaseMilestoneSuffix": "1.0",
+                 "productSemanticVersion": "17.14.14+36429.23",
+                 "requiredEngineVersion": "3.14.2086.54749"
+               },
+               "properties": {
+                 "campaignId": "2030:64f720266d7043ea81b39b741f652eba",
+                 "channelManifestId": "VisualStudio.17.Release/17.14.14+36429.23",
+                 "includeRecommended": "1",
+                 "nickname": "",
+                 "setupEngineFilePath": "C:\\Program Files (x86)\\Microsoft Visual Studio\\Installer\\setup.exe"
+               }
+             }
+           ]
+[   +1 ms] Building Windows application...
+[   +1 ms] executing: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe -S C:\Users\Yuvi\Documents\VS Code\bolt_player\windows -B C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64 -G Visual Studio 17 2022 -A x64 -DFLUTTER_TARGET_PLATFORM=windows-x64
+[  +30 ms] -- Selecting Windows SDK version 10.0.26100.0 to target Windows 10.0.26200.
+[  +39 ms] -- Configuring done (0.0s)
+[+1750 ms] -- Generating done (1.7s)
+[  +54 ms] -- Build files have been written to: C:/Users/Yuvi/Documents/VS Code/bolt_player/build/windows/x64
+[   +5 ms] executing: C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe --build C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64 --config Release --target INSTALL --verbose
+[  +41 ms] Change Dir: 'C:/Users/Yuvi/Documents/VS Code/bolt_player/build/windows/x64'
+[  +28 ms] Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" INSTALL.vcxproj /p:Configuration=Release /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+[  +44 ms] MSBuild version 17.14.23+b0019275e for .NET Framework
+[  +22 ms] Build started 14-02-2026 17:21:03.
+[ +120 ms] Project "C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\INSTALL.vcxproj" on node 1 (default targets).
+[        ] Project "C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\INSTALL.vcxproj" (1) is building "C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\ZERO_CHECK.vcxproj" (2) on node 1 (default targets).
+[        ] PrepareForBuild:
+[        ]   Creating directory "x64\Release\ZERO_CHECK\".
+[   +3 ms]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "x64\Release\ZERO_CHECK\ZERO_CHECK.tlog\".
+[   +1 ms] InitializeBuildStatus:
+[        ]   Creating "x64\Release\ZERO_CHECK\ZERO_CHECK.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "x64\Release\ZERO_CHECK\ZERO_CHECK.tlog\unsuccessfulbuild".
+[  +49 ms] CustomBuild:
+[        ]   1>Checking Build System
+[  +51 ms] FinalizeBuildStatus:
+[        ]   Deleting file "x64\Release\ZERO_CHECK\ZERO_CHECK.tlog\unsuccessfulbuild".
+[        ]   Touching "x64\Release\ZERO_CHECK\ZERO_CHECK.tlog\ZERO_CHECK.lastbuildstate".
+[        ] Done Building Project "C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\ZERO_CHECK.vcxproj" (default targets).
+[  +54 ms] Project "C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\INSTALL.vcxproj" (1) is building "C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\ALL_BUILD.vcxproj" (3) on node 1 (default targets).
+[        ] Project "C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\ALL_BUILD.vcxproj" (3) is building "C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\runner\bolt_player.vcxproj" (4) on node 1 (default targets).
+[        ] Project "C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\runner\bolt_player.vcxproj" (4) is building "C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\flutter\flutter_assemble.vcxproj" (5) on node 1 (default targets).
+[        ] PrepareForBuild:
+[        ]   Creating directory "x64\Release\flutter_assemble\".
+[        ]   Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+[        ]   Creating directory "x64\Release\flutter_assemble\flutter_assemble.tlog\".
+[   +1 ms] InitializeBuildStatus:
+[        ]   Creating "x64\Release\flutter_assemble\flutter_assemble.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+[        ]   Touching "x64\Release\flutter_assemble\flutter_assemble.tlog\unsuccessfulbuild".
+[   +1 ms] CustomBuild:
+[        ]   "The build of 'C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\CMakeFiles\fde7e55c46d9fb4d9a353e36ca06697b\flutter_assemble.rule' depends on 'C:\USERS\YUVI\DOCUMENTS\VS CODE\BOLT_PLAYER\WINDOWS\FLUTTER\EPHEMERAL\FLUTTER_WINDOWS.DLL' which is produced by the build of 'C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\CMakeFiles\a3eb292b7a2613dc85ddac6e05717fa0\flutter_windows.dll.rule'. The items cannot be built in parallel."
+[  +39 ms]   Generating C:/Users/Yuvi/Documents/VS Code/bolt_player/windows/flutter/ephemeral/flutter_windows.dll, C:/Users/Yuvi/Documents/VS Code/bolt_player/windows/flutter/ephemeral/flutter_export.h, C:/Users/Yuvi/Documents/VS Code/bolt_player/windows/flutter/ephemeral/flutter_windows.h, C:/Users/Yuvi/Documents/VS Code/bolt_player/windows/flutter/ephemeral/flutter_messenger.h, C:/Users/Yuvi/Documents/VS Code/bolt_player/windows/flutter/ephemeral/flutter_plugin_registrar.h, C:/Users/Yuvi/Documents/VS Code/bolt_player/windows/flutter/ephemeral/flutter_texture_registrar.h, C:/Users/Yuvi/Documents/VS Code/bolt_player/windows/flutter/ephemeral/cpp_client_wrapper/core_implementations.cc, C:/Users/Yuvi/Documents/VS Code/bolt_player/windows/flutter/ephemeral/cpp_client_wrapper/standard_codec.cc, C:/Users/Yuvi/Documents/VS Code/bolt_player/windows/flutter/ephemeral/cpp_client_wrapper/plugin_registrar.cc, C:/Users/Yuvi/Documents/VS Code/bolt_player/windows/flutter/ephemeral/cpp_client_wrapper/flutter_engine.cc, C:/Users/Yuvi/Documents/VS Code/bolt_player/windows/flutter/ephemeral/cpp_client_wrapper/flutter_view_controller.cc, _phony_
+[ +854 ms]   [ +198 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[   +3 ms]   [   +6 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +1 ms]   [   +1 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[  +30 ms]   [  +31 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterEngineStamp' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[   +1 ms]   [   +1 ms] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ]   [        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[   +7 ms]   [   +8 ms] Initializing file store
+[  +14 ms]   [  +14 ms] dart_build: Starting due to {}
+[        ]   [        ] Skipping target: gen_localizations
+[   +1 ms]   [   +1 ms] gen_dart_plugin_registrant: Starting due to {InvalidatedReasonKind.outputSetAddition: The following outputs were added to the output set: C:\Users\Yuvi\Documents\VS Code\bolt_player\.dart_tool\flutter_build\dart_plugin_registrant.dart, InvalidatedReasonKind.inputChanged: The following inputs have updated contents: C:\Users\Yuvi\Documents\VS Code\bolt_player\.dart_tool\package_config.json}
+[   +1 ms]   [   +1 ms] unpack_windows: Starting due to {}
+[ +156 ms]   [ +155 ms] unpack_windows: Complete
+[+2218 ms]   [+2218 ms] Found plugin window_manager at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\window_manager-0.5.1\
+[   +2 ms]   [   +2 ms] Found plugin screen_retriever at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\screen_retriever-0.2.0\
+[        ]   [   +1 ms] No packages with native assets. Skipping native assets compilation.
+[   +2 ms]   [   +2 ms] Found plugin screen_retriever_windows at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\screen_retriever_windows-0.2.0\
+[        ]   [        ] dart_build: Complete
+[  +16 ms]   [  +16 ms] install_code_assets: Starting due to {}
+[   +2 ms]   [   +2 ms] Writing native assets json to file:///C:/Users/Yuvi/Documents/VS%20Code/bolt_player/.dart_tool/flutter_build/be8da19771269c3408e9a21b7ef77ef4/native_assets.json.
+[   +2 ms]   [   +2 ms] Writing C:\Users\Yuvi\Documents\VS Code\bolt_player\.dart_tool\flutter_build\be8da19771269c3408e9a21b7ef77ef4\native_assets.json done.
+[   +1 ms]   [   +1 ms] install_code_assets: Complete
+[   +3 ms]   [   +3 ms] Found plugin screen_retriever_macos at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\screen_retriever_macos-0.2.0\
+[        ]   [        ] Found plugin screen_retriever_linux at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\screen_retriever_linux-0.2.0\
+[        ]   [   +1 ms] Found plugin media_kit_video at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\media_kit_video-2.0.1\
+[   +2 ms]   [   +2 ms] Found plugin wakelock_plus at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\wakelock_plus-1.4.0\
+[   +5 ms]   [   +5 ms] Found plugin package_info_plus at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-9.0.0\
+[  +23 ms]   [  +23 ms] Found plugin media_kit_libs_windows_video at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\media_kit_libs_windows_video-1.0.11\
+[        ]   [   +1 ms] Found plugin media_kit_libs_macos_video at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\media_kit_libs_macos_video-1.1.4\
+[        ]   [   +1 ms] Found plugin media_kit_libs_linux at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\media_kit_libs_linux-1.2.1\
+[   +1 ms]   [   +1 ms] Found plugin media_kit_libs_ios_video at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\media_kit_libs_ios_video-1.1.4\
+[        ]   [   +1 ms] Found plugin media_kit_libs_android_video at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\media_kit_libs_android_video-1.3.8\
+[  +29 ms]   [  +28 ms] Found plugin file_picker at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\file_picker-10.3.10\
+[        ]   [        ] Found plugin flutter_plugin_android_lifecycle at C:\Users\Yuvi\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_plugin_android_lifecycle-2.0.33\
+[  +11 ms]   [  +11 ms] Skipping generating dart_plugin_registrant.dart because it is up-to-date.
+[        ]   [        ] gen_dart_plugin_registrant: Complete
+[   +1 ms]   [   +1 ms] kernel_snapshot_program: Starting due to {}
+[   +5 ms]   [   +4 ms] C:\flutter\bin\cache\dart-sdk\bin\dartaotruntime.exe C:\flutter\bin\cache\dart-sdk\bin\snapshots\frontend_server_aot.dart.snapshot --sdk-root C:\flutter\bin\cache\artifacts\engine\common\flutter_patched_sdk_product/ --target=flutter --no-print-incremental-dependencies -DFLUTTER_VERSION=3.41.1 -DFLUTTER_CHANNEL=stable -DFLUTTER_GIT_URL=https://github.com/flutter/flutter.git -DFLUTTER_FRAMEWORK_REVISION=582a0e7c55 -DFLUTTER_ENGINE_REVISION=3452d735bd -DFLUTTER_DART_VERSION=3.11.0 -Ddart.vm.profile=false -Ddart.vm.product=true --delete-tostring-package-uri=dart:ui --delete-tostring-package-uri=package:flutter --aot --tfa --target-os windows --packages C:\Users\Yuvi\Documents\VS Code\bolt_player\.dart_tool\package_config.json --output-dill C:\Users\Yuvi\Documents\VS Code\bolt_player\.dart_tool\flutter_build\be8da19771269c3408e9a21b7ef77ef4\app.dill --depfile C:\Users\Yuvi\Documents\VS Code\bolt_player\.dart_tool\flutter_build\be8da19771269c3408e9a21b7ef77ef4\kernel_snapshot_program.d --source file:///C:/Users/Yuvi/Documents/VS%20Code/bolt_player/.dart_tool/flutter_build/dart_plugin_registrant.dart --source package:flutter/src/dart_plugin_registrant.dart -Dflutter.dart_plugin_registrant=file:///C:/Users/Yuvi/Documents/VS%20Code/bolt_player/.dart_tool/flutter_build/dart_plugin_registrant.dart --verbosity=error package:bolt_player/main.dart
+[+1442 ms] [+1441 ms] lib/features/player/providers/player_provider.dart(28,29): error G311314CC: Method not found: 'StateProvider'. [C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\flutter\flutter_assemble.vcxproj]
+[        ]   [        ] final currentFileProvider = StateProvider<String?>((ref) => null);
+[        ]   [        ]                             ^^^^^^^^^^^^^
+[+3707 ms]   [+3708 ms] Persisting file store
+[   +1 ms]   [   +1 ms] Done persisting file store
+[   +3 ms]   [   +3 ms] Target kernel_snapshot_program failed: Exception
+[        ]              #0      KernelSnapshot.build (package:flutter_tools/src/build_system/targets/common.dart:289:7)
+[        ]              <asynchronous suspension>
+[        ]              #1      _BuildInstance._invokeInternal (package:flutter_tools/src/build_system/build_system.dart:937:9)
+[        ]              <asynchronous suspension>
+[        ]              #2      Future.wait.<anonymous closure> (dart:async/future.dart:546:21)
+[        ]              <asynchronous suspension>
+[        ]              #3      _BuildInstance.invokeTarget (package:flutter_tools/src/build_system/build_system.dart:875:32)
+[        ]              <asynchronous suspension>
+[        ]              #4      Future.wait.<anonymous closure> (dart:async/future.dart:546:21)
+[        ]              <asynchronous suspension>
+[        ]              #5      _BuildInstance.invokeTarget (package:flutter_tools/src/build_system/build_system.dart:875:32)
+[        ]              <asynchronous suspension>
+[        ]              #6      Future.wait.<anonymous closure> (dart:async/future.dart:546:21)
+[        ]              <asynchronous suspension>
+[        ]              #7      _BuildInstance.invokeTarget (package:flutter_tools/src/build_system/build_system.dart:875:32)
+[        ]              <asynchronous suspension>
+[        ]              #8      FlutterBuildSystem.build (package:flutter_tools/src/build_system/build_system.dart:684:16)
+[        ]              <asynchronous suspension>
+[        ]              #9      AssembleCommand.runCommand (package:flutter_tools/src/commands/assemble.dart:365:32)
+[        ]              <asynchronous suspension>
+[        ]              #10     FlutterCommand.run.<anonymous closure> (package:flutter_tools/src/runner/flutter_command.dart:1590:27)
+[        ]              <asynchronous suspension>
+[        ]              #11     AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+[        ]              <asynchronous suspension>
+[        ]              #12     CommandRunner.runCommand (package:args/command_runner.dart:212:13)
+[        ]              <asynchronous suspension>
+[        ]              #13     FlutterCommandRunner.runCommand.<anonymous closure> (package:flutter_tools/src/runner/flutter_command_runner.dart:496:9)
+[        ]              <asynchronous suspension>
+[        ]              #14     AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+[        ]              <asynchronous suspension>
+[        ]              #15     FlutterCommandRunner.runCommand (package:flutter_tools/src/runner/flutter_command_runner.dart:431:5)
+[        ]              <asynchronous suspension>
+[        ]              #16     FlutterCommandRunner.run.<anonymous closure> (package:flutter_tools/src/runner/flutter_command_runner.dart:307:33)
+[        ]              <asynchronous suspension>
+[        ]              #17     run.<anonymous closure>.<anonymous closure> (package:flutter_tools/runner.dart:104:11)
+[        ]              <asynchronous suspension>
+[        ]              #18     AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+[        ]              <asynchronous suspension>
+[        ]              #19     main (package:flutter_tools/executable.dart:103:3)
+[        ]              <asynchronous suspension>
+[   +1 ms]   [   +3 ms] "flutter assemble" took 7,719ms.
+[  +32 ms]   [  +32 ms] 
+[        ]              #0      throwToolExit (package:flutter_tools/src/base/common.dart:34:3)
+[        ]              #1      AssembleCommand.runCommand (package:flutter_tools/src/commands/assemble.dart:383:7)
+[        ]              <asynchronous suspension>
+[        ]              #2      FlutterCommand.run.<anonymous closure> (package:flutter_tools/src/runner/flutter_command.dart:1590:27)
+[        ]              <asynchronous suspension>
+[        ]              #3      AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+[        ]              <asynchronous suspension>
+[        ]              #4      CommandRunner.runCommand (package:args/command_runner.dart:212:13)
+[        ]              <asynchronous suspension>
+[        ]              #5      FlutterCommandRunner.runCommand.<anonymous closure> (package:flutter_tools/src/runner/flutter_command_runner.dart:496:9)
+[        ]              <asynchronous suspension>
+[        ]              #6      AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+[        ]              <asynchronous suspension>
+[        ]              #7      FlutterCommandRunner.runCommand (package:flutter_tools/src/runner/flutter_command_runner.dart:431:5)
+[        ]              <asynchronous suspension>
+[        ]              #8      FlutterCommandRunner.run.<anonymous closure> (package:flutter_tools/src/runner/flutter_command_runner.dart:307:33)
+[        ]              <asynchronous suspension>
+[        ]              #9      run.<anonymous closure>.<anonymous closure> (package:flutter_tools/runner.dart:104:11)
+[        ]              <asynchronous suspension>
+[        ]              #10     AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+[        ]              <asynchronous suspension>
+[        ]              #11     main (package:flutter_tools/executable.dart:103:3)
+[        ]   [        ] Running 1 shutdown hook
+[        ]              <asynchronous suspension>
+[        ]   [   +1 ms] Shutdown hooks complete
+[        ]   [        ] exiting with code 1
+[  +32 ms] C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(254,5): error MSB8066: Custom build for 'C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\CMakeFiles\a3eb292b7a2613dc85ddac6e05717fa0\flutter_windows.dll.rule;C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\CMakeFiles\fde7e55c46d9fb4d9a353e36ca06697b\flutter_assemble.rule;C:\Users\Yuvi\Documents\VS Code\bolt_player\windows\flutter\CMakeLists.txt' exited with code 1. [C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\flutter\flutter_assemble.vcxproj]
+[        ] Done Building Project "C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\flutter\flutter_assemble.vcxproj" (default targets) -- FAILED.
+[        ] Done Building Project "C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\runner\bolt_player.vcxproj" (default targets) -- FAILED.
+[  +73 ms] Done Building Project "C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\ALL_BUILD.vcxproj" (default targets) -- FAILED.
+[        ] Done Building Project "C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\INSTALL.vcxproj" (default targets) -- FAILED.
+[   +1 ms] Build FAILED.
+[        ] "C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\INSTALL.vcxproj" (default target) (1) ->
+[        ] "C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\ALL_BUILD.vcxproj" (default target) (3) ->
+[        ] "C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\runner\bolt_player.vcxproj" (default target) (4) ->
+[        ] "C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\flutter\flutter_assemble.vcxproj" (default target) (5) ->
+[        ] (CustomBuild target) -> 
+[        ]   [+1441 ms] lib/features/player/providers/player_provider.dart(28,29): error G311314CC: Method not found: 'StateProvider'. [C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\flutter\flutter_assemble.vcxproj]
+[        ]   C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(254,5): error MSB8066: Custom build for 'C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\CMakeFiles\a3eb292b7a2613dc85ddac6e05717fa0\flutter_windows.dll.rule;C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\CMakeFiles\fde7e55c46d9fb4d9a353e36ca06697b\flutter_assemble.rule;C:\Users\Yuvi\Documents\VS Code\bolt_player\windows\flutter\CMakeLists.txt' exited with code 1. [C:\Users\Yuvi\Documents\VS Code\bolt_player\build\windows\x64\flutter\flutter_assemble.vcxproj]
+[        ]     0 Warning(s)
+[        ]     2 Error(s)
+[        ] Time Elapsed 00:00:09.04
+[  +14 ms] Building Windows application... (completed in 11.1s)
+[        ] "flutter windows" took 11,430ms.
+[  +27 ms] Build process failed.
+[        ] 
+           #0      throwToolExit (package:flutter_tools/src/base/common.dart:34:3)
+           #1      _runBuild (package:flutter_tools/src/windows/build_windows.dart:262:5)
+           <asynchronous suspension>
+           #2      buildWindows (package:flutter_tools/src/windows/build_windows.dart:118:5)
+           <asynchronous suspension>
+           #3      BuildWindowsCommand.runCommand (package:flutter_tools/src/commands/build_windows.dart:72:5)
+           <asynchronous suspension>
+           #4      FlutterCommand.run.<anonymous closure> (package:flutter_tools/src/runner/flutter_command.dart:1590:27)
+           <asynchronous suspension>
+           #5      AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+           <asynchronous suspension>
+           #6      CommandRunner.runCommand (package:args/command_runner.dart:212:13)
+           <asynchronous suspension>
+           #7      FlutterCommandRunner.runCommand.<anonymous closure> (package:flutter_tools/src/runner/flutter_command_runner.dart:496:9)
+           <asynchronous suspension>
+           #8      AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+           <asynchronous suspension>
+           #9      FlutterCommandRunner.runCommand (package:flutter_tools/src/runner/flutter_command_runner.dart:431:5)
+           <asynchronous suspension>
+           #10     FlutterCommandRunner.run.<anonymous closure> (package:flutter_tools/src/runner/flutter_command_runner.dart:307:33)
+           <asynchronous suspension>
+           #11     run.<anonymous closure>.<anonymous closure> (package:flutter_tools/runner.dart:104:11)
+           <asynchronous suspension>
+           #12     AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:154:19)
+           <asynchronous suspension>
+           #13     main (package:flutter_tools/executable.dart:103:3)
+           <asynchronous suspension>
+
+
+[        ] Running 1 shutdown hook
+[   +1 ms] Shutdown hooks complete
+[        ] exiting with code 1
