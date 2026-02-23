@@ -11,8 +11,8 @@ Bolt Player is a high-performance, aesthetically stunning media player built wit
 ## 🚀 Get the Latest Release
 Head over to the **[Releases](https://github.com/Yuvi-GD/bolt_player/releases)** page to download the latest version.
 
-- **Installer** (`BoltPlayer_Setup_x.x.x.exe`) — Recommended. Registers file associations so you can right-click any media file → "Open with" → Bolt Player.
-- **Portable** (`BoltPlayer-Windows.zip`) — Extract and run. No installation needed.
+- **Installer** ([BoltPlayer_Setup_x.x.x.exe](https://github.com/Yuvi-GD/bolt_player/releases/download/v1.0.0/BoltPlayer_Setup_1.0.0.exe)) — Recommended. Registers file associations so you can right-click any media file → "Open with" → Bolt Player.
+- **Portable** ([BoltPlayer-Windows.zip](https://github.com/Yuvi-GD/bolt_player/releases/download/v1.0.0/BoltPlayer-Windows.zip)) — Extract and run. No installation needed.
 
 > **Note**: Bolt Player is currently in **Beta**. We are constantly adding new features and polishing the experience!
 
