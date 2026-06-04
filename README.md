@@ -100,6 +100,17 @@ Bolt Player is optimized for desktop mouse interaction, allowing control without
 * `lib/features/player/presentation/screens/`: Main views including Home, Player, and Settings.
 * `lib/features/player/presentation/widgets/`: HUD components, sidebars, and interactive overlays.
 
+## Contribution
+
+Pull requests are always welcome. Whether it is a small bug fix, a performance tweak, or help porting the app to new platforms, your contributions are appreciated. 
+
+Here is the standard process to get your changes merged:
+
+1. **Open an issue first:** For major features or architectural changes, please open an issue to discuss it before you start coding. This ensures we are on the same page and saves everyone time.
+2. **Fork and branch:** Create a fork and do your work on a dedicated feature branch.
+3. **Follow the style:** Keep your code consistent with the existing project structure and formatting.
+4. **Submit a PR:** Keep your pull request focused on a single issue and explain exactly what your code does.
+
 ## License
 
 This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.
